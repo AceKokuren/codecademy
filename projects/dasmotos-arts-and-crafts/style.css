@@ -4,7 +4,7 @@ body {
 
 header h1 {
     min-width: 1040px;
-    background-image: url("pattern.webp");
+    background-image: url("media/images/pattern.webp");
     font-size: 100px;
     font-weight: bold;
     color: khaki;
